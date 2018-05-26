@@ -1,0 +1,385 @@
+body{
+    background: #F4F4F4;
+}
+#headhome{
+    width: 100%;
+    height: 665px;
+    background-color: #141E30;
+    color: white;
+    text-transform: uppercase;
+    margin-bottom: none;
+}
+.navbar-default{
+    background: transparent;
+    border: none;
+    text-transform: uppercase;
+    overflow: none;
+}
+.navbar-default .navbar-brand:focus, .navbar-default .navbar-brand:hover {
+    color: white;
+    background-color: transparent;
+}
+.navbar-default .navbar-brand {
+    color: white;
+}
+.navbar-default .navbar-brand:hover {
+    color: orange;
+}
+.navbar-default .navbar-nav>li>a {
+    color: white;
+}
+
+.navbar-default .navbar-nav>li>a:hover{
+    color: #6380A2;
+}
+.navbar-default .navbar-nav>li>a:focus, .navbar-default .navbar-nav>li>a:hover {
+    color: white;
+    background-color: transparent;
+}
+@media screen and (max-width: 766px){
+    .nav>li {
+    width: 148px;
+}
+}
+#Pricing{
+    text-align: center;
+    margin: 250px auto;
+}
+#btnhead{
+    text-align: center;
+    padding-top: 25px;
+}
+.btn-default{
+    background: transparent;
+    color: white;
+    border: 1px solid white;
+    padding: 15px;
+    text-transform: uppercase;
+}
+.btn-default:hover{
+    color: #141E30;
+    background: white;
+}
+.btn-default.active{
+    color: #141E30;
+    background: white;
+}
+.btn-default.active:focus{
+    color: #141E30;
+    background: white;
+}
+.default:focus {
+    color: #141E30;
+    background: white;
+}
+/*contaoner of price*/
+#con-pric{
+    margin-top: 50px;
+    padding-left: 50px;
+}
+h2{
+    color: #6380A2;
+}
+/*spna of numbers*/
+.numone , .numtwo ,.cus{
+    font-size: 85px;
+    color: #6380A2;
+}
+p{
+    line-height: 25px;
+}
+/*check sign*/
+.svg-inline--fa.fa-w-16 {
+    width: 30px;
+}
+/*word of custom*/
+.cus{
+    font-size: 50px;
+}
+/*buttom under the list*/
+.se{
+    width: 60%;
+    padding: 10px;
+    background: white;
+    border: 1px solid #141E30;
+    border-radius: 25px;
+    text-align: center;
+    margin: 15px auto;
+    font-size: 17px;
+}
+.se:hover{
+    background: #141E30;
+    color: white;
+}
+#cardone{
+    text-align: center;
+    font-weight: bold;
+    line-height: 80px;
+    color: #6380A2;
+}
+#cardtwo{
+    text-align: center;
+    font-size: 30px;
+    line-height: 80px;
+    color: #6380A2;
+}
+.im{
+    
+    font-weight:normal;
+    line-height: 10px;
+}
+hr{
+    height: 2px;
+    background: #141E30;
+    width: 95%;      
+}
+#price-page{
+    width:100%;
+    height: 663px;
+    background-color: #141E30;
+    text-align: center;
+    color: white;
+    padding-top: 1px;
+}
+
+#hprice{
+    margin-top: 300px;
+    color: white;
+    margin-bottom: 260px;
+}
+/*button*/
+#btnhead{
+    text-align: center;
+    padding-top: 25px;
+}
+.btn-default{
+    background: transparent;
+    color: white;
+    border: 1px solid white;
+    padding: 15px;
+    text-transform: uppercase;
+}
+.btn-default:hover{
+    color: #141E30;
+    background: white;
+}
+.btn-default.active{
+    color: #141E30;
+    background: white;
+}
+.btn-default.active:focus{
+    color: #141E30;
+    background: white;
+}
+.default:focus {
+    color: #141E30;
+    background: white;
+}
+.con-pric{
+    margin-top: 50px;
+    padding-left: 30px;
+}
+h2{
+    color: #6380A2;
+}
+/*spna of numbers*/
+.numone , .numtwo ,.cus{
+    font-size: 85px;
+    color: #6380A2;
+}
+p{
+    line-height: 25px;
+}
+/*check sign*/
+.svg-inline--fa.fa-w-16 {
+    width: 30px;
+}
+/*word of custom*/
+.cus{
+    font-size: 50px;
+   height: 30px;
+     
+}
+/*buttom under the list*/
+.se{
+    width: 60%;
+    padding: 10px;
+    background: white;
+    border: 1px solid #141E30;
+    border-radius: 25px;
+    text-align: center;
+    margin: 30px auto;
+    font-size: 17px;
+}
+.se:hover{
+    background: #141E30;
+    color: white;
+}
+#cardone{
+    text-align: center;
+    font-weight: bold;
+    line-height: 80px;
+    color: #6380A2;
+}
+#cardtwo{
+    text-align: center;
+    font-size: 30px;
+    line-height: 80px;
+    color: #6380A2;
+}
+.im{
+    
+    font-weight:normal;
+    line-height: 10px;
+}
+/*mine list*/
+.hone{
+    color: #6380A2;
+}
+.pone{
+    display: none;
+}
+.plusone{
+    font-size: 30px;
+    margin-left: 220px;
+    cursor: pointer;
+}
+h3{
+    cursor: pointer;
+}
+#hrone{
+    width: 100%;
+    margin: none;
+    padding: none;
+    height: 1px;
+}
+.htwo{
+    color: #6380A2;
+}
+.ptwo{
+    display: none;
+}
+.plustwo{
+    font-size: 30px;
+    margin-left: 177px;
+    cursor: pointer;
+}.hthree{
+    color: #6380A2;
+}
+.pthree{
+    display: none;
+}
+.plusthree{
+    font-size: 30px;
+    margin-left: 12px;
+    cursor: pointer;
+}.hfour{
+    color: #6380A2;
+}
+.pfour{
+    display: none;
+}
+.plusfour{
+    font-size: 30px;
+    margin-left: 265px;
+    cursor: pointer;
+}
+.con{
+    margin-top: 50px;
+}
+.bolder{
+    font-weight: bold;
+    font-size: 16px
+}
+#input{
+    margin: 45px auto;    
+}
+
+input{
+    width: 300px;
+    background: transparent;
+    border: none;
+    border-bottom: 2px solid #21364F;
+    padding: 15px;
+    color: #21364F;
+}
+#button{
+    background: transparent;
+    border: 1px solid #21364F;
+    border-radius: 20px 20px;
+    color: #21364F;
+    padding: 10px ;
+    width: 130px;
+    text-align: center;
+    margin: 10px auto;
+}
+#button:hover{
+    color:white;
+    background: #21364F;
+}
+#sub{
+    margin-top: 55px;
+}
+#font{
+    text-align: center;
+  
+}
+.a{
+    font-size: 35px;
+    margin: 10px;
+    text-align: center;
+}
+.lang{
+    color: white;
+    cursor: pointer;
+    text-align: center;     
+    width: 5%;
+    font-size: 11px;
+    background: rgba(0,0,0,0.2);
+    transform: rotate(-90deg);
+     -ms-transform: rotate(-90deg);
+    -ms-transform-origin:right, top;
+    -webkit-transform: rotate(-90deg);
+    -webkit-transform-origin:right, top;
+    text-transform: uppercase;
+}
+.rtl{
+    float: right;
+}
+/*section ten*/
+#section-ten{
+    background: white;
+    padding-bottom: 55px;
+    padding-top: 55px;
+}
+.anchor{
+    font-size: 100px;
+    color: #6380A2;
+}
+.headfooter{
+    font-weight: bold;
+    color: black;
+    text-transform: uppercase;    
+}
+.list-footer{
+    list-style: none;
+    padding-left: 0;
+    color: #6380A2;
+    line-height: 30px;
+    font-size: 17px;
+    text-decoration: none;
+}
+li a:hover{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+footer {
+    text-align: center;
+    color: blue;
+}
+@media screen and (max-width: 1024px) {
+    .list-footer{
+    display: none;
+}
+}
